@@ -1,6 +1,5 @@
 .main {
     margin-top: 180px;
-    text-align: center;
 }
 
 .logo {
@@ -21,6 +20,11 @@
     border: 1px solid #def1e5;
     border-radius: 20px;
     padding: 10px 30px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
 }
 
 .btn {
